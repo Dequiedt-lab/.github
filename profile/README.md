@@ -1,33 +1,26 @@
-# Dequiedt Lab – Gene Expression & Fusion Oncogenes
+# Dequiedt Lab – Gene Expression and Cancer
 
-Welcome to the official GitHub repository for the Dequiedt Lab website.  
+Welcome to the official GitHub repository for the Dequiedt Lab (GIGA-R, University of Liège, Belgium).
 Our lab investigates **moonlighting functions** of transcriptional factors and regulators — focusing on their unexpected roles in **post-transcriptional gene expression**.
 
-🧪 We are particularly interested in **FET gene fusions**.
+Visit our lab website for more info about publications, lab members, contact information, and current lab projects: https://www.gigapsi.uliege.be/cms/c_4242297/en/gigapsi
+
+---
+## 🔍 What The Git Contains
+
+This GitHub Page serves as a **public and private portal** to showcase and store:
+
+- In-house laboratory analysis pipelines
+- Scripts used for publications
 ---
 
-## 🔍 What This Site Contains
+Main contact:
 
-This GitHub Pages site serves as a **public portal** to showcase:
+**Franck Dequiedt**
+fdequiedt@uliege.be
++32 4 366 90 28
 
-- Lab research focus and projects
-- Team members and collaborators
-- Publications and protocols
-- Scientific outreach and updates
----
-Contact:
-Franck Dequiedt
+## 📁 Repositories
 
-Email: fdequiedt@uliege.be
-
-## 📁 Repository Structure
-
-```plaintext
-index.md            # Homepage
-about.md            # Lab overview and contact
-people.md           # Team member bios
-projects.md         # Research project summaries
-protocols.md        # Wet-lab protocols and methods
-publications.md     # List of lab publications
-_config.yml         # Site configuration (theme, title)
-README.md           # This file
+The current repositories are:
+- [In-house-scripts](https://github.com/Dequiedt-lab/In-house-scripts) - Private - Contains our laboratory analytical pipelines and custom scripts
