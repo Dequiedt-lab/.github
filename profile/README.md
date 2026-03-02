@@ -1,0 +1,33 @@
+# Dequiedt Lab – Gene Expression & Fusion Oncogenes
+
+Welcome to the official GitHub repository for the Dequiedt Lab website.  
+Our lab investigates **moonlighting functions** of transcriptional factors and regulators — focusing on their unexpected roles in **post-transcriptional gene expression**.
+
+🧪 We are particularly interested in **FET gene fusions**.
+---
+
+## 🔍 What This Site Contains
+
+This GitHub Pages site serves as a **public portal** to showcase:
+
+- Lab research focus and projects
+- Team members and collaborators
+- Publications and protocols
+- Scientific outreach and updates
+---
+Contact:
+Franck Dequiedt
+
+Email: fdequiedt@uliege.be
+
+## 📁 Repository Structure
+
+```plaintext
+index.md            # Homepage
+about.md            # Lab overview and contact
+people.md           # Team member bios
+projects.md         # Research project summaries
+protocols.md        # Wet-lab protocols and methods
+publications.md     # List of lab publications
+_config.yml         # Site configuration (theme, title)
+README.md           # This file
