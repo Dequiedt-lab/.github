@@ -15,9 +15,10 @@ This GitHub Page serves as a **public and private portal** to showcase and store
 
 Main contact:
 
-**Franck Dequiedt** ⋅⋅
-fdequiedt@uliege.be ⋅⋅
-+32 4 366 90 28 ⋅⋅
+**Franck Dequiedt** <br>
+fdequiedt@uliege.be <br>
++32 4 366 90 28
+
 
 ## 📁 Repositories
 
